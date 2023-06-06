@@ -1,0 +1,42 @@
+canvas{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 20px;
+    margin-top:50px;
+}
+
+#return{
+    float:right;
+    margin-right: 400px;
+    background-color: black;
+    width: 60px;
+    padding: 10px;
+    color:white;
+    border-radius: 15px;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 7px 7px 15px lemonchiffon;
+}
+
+.heading{
+    font-size: 38px;
+    font-family:monospace;
+    color:white;
+    margin-top: 38px;
+    text-shadow: 7px 7px 10px lavenderblush;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.input{
+    width: 300px;
+    padding: 10px;
+    margin-bottom:12px;
+    margin-top: 12px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 7px 7px 15px lemonchiffon;
+}

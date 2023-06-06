@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.anchor{
+    width: 300px;
+    padding: 10px;
+    margin-bottom:12px;
+    margin-top: 12px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 7px 7px 15px lemonchiffon;
+}
+
+.heading{
+    font-size: 38px;
+    font-family:monospace;
+    color:white;
+    margin-top: 38px;
+    text-shadow: 7px 7px 10px lavenderblush;
+}
